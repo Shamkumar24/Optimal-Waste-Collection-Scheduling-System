@@ -29,8 +29,8 @@ The Optimal Waste Collection Scheduling System helps in organizing waste collect
 ---
 
 ## 📂 Project Structure
-- src
-- └── Demoswing
+-     src
+-     └── Demoswing
 -     ├── WelcomePage.java
 -     ├── RegisterPage.java
 -     ├── LoginPage.java
